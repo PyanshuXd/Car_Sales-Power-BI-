@@ -68,5 +68,5 @@ This Power BI project successfully consolidated and analyzed BMW car sales data 
 ## Screenshots:
 Include screenshots of the Power BI dashboard, data model, and visualizations.
 
-![Page 1]([https://github.com/PyanshuXd/SQL-Hospitality-/blob/84b1522911be548c834fba9fac83a5959606e58b/Images%20Used/hospital-management-system-fb.png](https://github.com/PyanshuXd/Car_Sales-Power-BI-/blob/d197e47acb45798cd4a14092413784125d0f57e1/Images%20Used/Picture1.png))
-![Page 2]([https://github.com/PyanshuXd/SQL-Hospitality-/blob/84b1522911be548c834fba9fac83a5959606e58b/Images%20Used/hospital-management-system-fb.png](https://github.com/PyanshuXd/Car_Sales-Power-BI-/blob/d197e47acb45798cd4a14092413784125d0f57e1/Images%20Used/Picture2.png))
+![Page 1](https://github.com/PyanshuXd/Car_Sales-Power-BI-/blob/d09efbc92f3a0edaa8bf5607ab7f485b6facfba3/Images%20Used/page1.png)
+![Page 2](https://github.com/PyanshuXd/Car_Sales-Power-BI-/blob/d09efbc92f3a0edaa8bf5607ab7f485b6facfba3/Images%20Used/page2.png)
